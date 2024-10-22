@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🔭 I'm currently working as a Data Analyst
-- 👯 I'm looking to collaborate on Data Analysis and Visualization
-- 🌱 I'm currently learning Advanced dashboard building techniques in Power BI 
-- 💬 Ask me about Business Analytics and Data Visualization<br>
+- 🔭 I'm currently enrolled into University of Arizona, tucson, USA for Master's in Data Science
+- 👯 I'm have 2 years of work experience as a Data Analyst and am looking to collaborate on Data Science, Data Analysis and Visualization
+- 🌱 I'm currently learning Advanced dashboard building techniques in Power BI, and developing strong foundations in Data Science and Machine Learning
+- 💬 Ask me about Business Analytics, Data Visualization and Data Science<br>
 
 
 ## 🌐 Socials:
